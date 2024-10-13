@@ -1,6 +1,13 @@
 {
-  users: [
-    { username: 'rafael', password: '123' },
-    { username: 'rafael1', password: '1234' }
+  "allowedIps": [],
+  "users": [
+    {
+      "username": "Rimoffc",
+      "password": "rimoffc2024"
+    },
+    {
+      "username": "rafael",
+      "password": "123"
+    }
   ]
 }
