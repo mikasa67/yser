@@ -6,12 +6,12 @@
       "password": "rimoffc2024"
     },
     {
-      "username": "rafael",
-      "password": "123"
+      "username": "zextory",
+      "password": "zex28"
     }
   ],
   "approvedUsers": [
-        { "username": "rafael", "token": "rafael123" },
+        { "username": "zextory", "token": "zex24" },
         { "username": "user2", "token": "another-token-here" }
   ]
 }
